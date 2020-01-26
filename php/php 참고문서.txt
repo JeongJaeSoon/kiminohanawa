@@ -1,0 +1,32 @@
+//TODO : 마지막 주차가 되었을 때 어떻게 날짜 연산을 할 것 인가?????
+
+0	1	2	3	4	5	6
+			0101	0102	0103	0104
+
+<시간 처리 하는 방법>
+1577804400 - 1577804400 0
+1577890800 - 1577804400 86400
+
+2주차(1)	1	7
+3주차(2)	8	14
+4주차(3)	15	21
+5주차(4)	22	28
+
+		0	1	2	3	4	5	6
+	구분	co2 max / co2 min	2.5 max / 2.5 min	10 max / 10 min	날짜
+0	 일
+1	 월
+2	 화
+3	 수
+4	 목
+5	 금
+6	 토
+
+SELECT * FROM dummy_data
+WHERE date_time >= "2020-01-17 00:00:00"
+AND date_time <= "2020-01-17 23:59:59"
+
+SELECT MAX(co2), MIN(co2), MAX(ultrafine_dust), MIN(ultrafine_dust), MAX(fine_dust), MIN(fine_dust)
+FROM dummy_data
+WHERE date_time >= "2020-01-17 00:00:00"
+AND date_time <= "2020-01-17 23:59:59";
