@@ -55,7 +55,7 @@
 >> #### 🌐 Web Site
 >> ##### ❗️ 실시간 조회
 >> - ##### 1분 단위, 평균 값(CO2, 미세먼지, 초미세먼지) 을 제공
->> <img src = "https://user-images.githubusercontent.com/53788601/73657243-36d30980-46d5-11ea-96bc-e1f35a12a840.PNG" width = "50%">
+>> <img src = "https://user-images.githubusercontent.com/53788601/73658144-2b80dd80-46d7-11ea-8fa6-c7fea6b6b7dd.PNG" width = "50%">
 >>
 >> - ##### 상세 조회 시, 5시간 이전(현시간 기준) 평균 값을 Chart로 표현
 >> <img src = "https://user-images.githubusercontent.com/53788601/73657244-36d30980-46d5-11ea-87b7-96b986811c7f.PNG" width = "50%">
