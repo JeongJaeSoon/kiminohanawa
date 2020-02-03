@@ -8,9 +8,9 @@
     Back End : 이인준, 이주용, 정재순</h2> -->
 
 # Kiminohanawa : 君の鼻は
-> ###  Bokvengers : 2nd team project
+> ##  Bokvengers : 2nd team project
 > ### Front End : 김범수, 조승현
-> ###    Back End : 이인준, 이주용, 정재순
+> ### Back End : 이인준, 이주용, 정재순
 ---
 > ### 🔎 프로젝트 기획의도
 >> #### ❗️ 강의실 내 대기질 관리의 필요성 대두
@@ -24,21 +24,21 @@
 
 ---
 > ### 🏢 프로젝트 설계
->> ### ❗️ 개인별 관심분야를 중점으로 역할(Front End, Back End) 분담
->> <img src="https://user-images.githubusercontent.com/53788601/73654281-a265a880-46ce-11ea-9138-78b416254de9.PNG"
-    width="80%" alt="distributing_roles">
->> ### ❗️ 전체적인 프로젝트에 진행에 대하여 토의
->> #### Development Language
+>> #### ❗️ 개인별 관심분야를 중점으로 역할(Front End, Back End) 분담
+>> <img src="https://user-images.githubusercontent.com/53788601/73654281-a265a880-46ce-11ea-9138-78b416254de9.PNG" width="80%" alt="distributing_roles">
+>>
+>> #### ❗️ 전체적인 프로젝트에 진행에 대하여 토의
+>> - #### Development Language
 >> <img src="https://user-images.githubusercontent.com/53788601/73654226-7c400880-46ce-11ea-81fe-279c22fe9787.png" width="80%">
 >>
->> #### Service Flow
+>> - #### Service Flow
 >> <img src="https://user-images.githubusercontent.com/53788601/73654287-a5609900-46ce-11ea-8258-d0b92b2c75c3.png" width="80%" alt="service_flow">
 >>
->> #### Systems Architecture
+>> - #### Systems Architecture
 >> <img src="https://user-images.githubusercontent.com/53788601/73654289-a5609900-46ce-11ea-9882-54bd9f8449a2.png" width="80%" alt="systems_architecture">
-> ### 👉 교실의 대기 질(CO2, 미세먼지, 초미세먼지)을 측정하여 Display를 통해 출력
-> ### 👉 위험 수치 기준을 넘을 시, LED를 통한 사용자에게 경고 전달
-> ### 👉 Web page / Application을 통해 실시간 측정값, 과거 이력 조회, 리모컨 기능 추가
+> #### 👉 교실의 대기 질(CO2, 미세먼지, 초미세먼지)을 측정하여 Display를 통해 출력
+> #### 👉 위험 수치 기준을 넘을 시, LED를 통한 사용자에게 경고 전달
+> #### 👉 Web page / Application을 통해 실시간 측정값, 과거 이력 조회, 리모컨 기능 추가
 
 ---
 ### 💻 프로젝트 개발 과정
